@@ -233,54 +233,7 @@ If you need want to feature your name in our contributer's list, Please mention 
 
 ```
 
-<!-- LICENSE -->
-## License 📄
-
-Distributed under the MIT License. See [`LICENSE`](https://choosealicense.com) for more information.
 
 
 
-<!-- CONTACT -->
-## Contact ✉️
 
-[Discussion forem](https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/discussions)
-
-<a name="contributers"></a>
-## Contributers: ✨
-**Core:**
-<table>
-  <tr>
-    <!-- abhishekpatel946 -->
-    <td align="center"><a href="https://github.com/abhishekpatel946"><img src="https://avatars3.githubusercontent.com/u/46045014?s=460&u=bf62a7334b9af734839ac59901016653900bae52&v=4" width="100px;" alt=""/><br /><sub><b>Abhishek Patel</b></sub></a><br/> <a href="https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/commits?author=abhishekpatel946" title="Code">💻</a> <a href="#design-abhishekpatel946" title="Design">🎨</a> <a href="#design-abhishekpatel946" title="Maintenance">🚧</a> <a href="https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/pulls?q=is%3Apr+reviewed-by%3Aabhishekpatel946" title="Reviewed Pull Requests">👀</a> <a href="#question-abhishekpatel946" title="Answering Questions">💬</a> <a href="https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/commits?author=abhishekpatel946" title="Documentation">📖</a> </td>
-    <!-- ashutoshmourya -->
-    <td align="center"><a href="https://github.com/AshutoshMourya"><img src="https://avatars2.githubusercontent.com/u/46039416?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Ashutosh Mourya</b></sub></a><br /> <a href="#design-AshutoshMourya" title="Design">🎨</a> <a href="https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/commits?author=AshutoshMourya" title="Documentation">📖</a><a href="#talk-AshutoshMourya" title="Talks">📢</a></td>
-    <!-- muskankabir -->
-    <td align="center"><a href="https://github.com/MuskanKabir
-"><img src="https://avatars2.githubusercontent.com/u/51900911?s=460&v=4" width="100px;" alt=""/><br /><sub><b>MuskanKabir</b></sub></a><br /> <a href="#design-MuskanKabir" title="Design">🎨</a> <a href="https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager/commits?author=MuskanKabir" title="Documentation">📖</a> <a href="#talk-MuskanKabir" title="Talks">📢</a>
-  </tr>
-</table>
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements 
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/abhishekpatel946/Smart-Vehicle-Fleet-Manager.svg?style=flat
-[contributors-url]: https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager//graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/abhishekpatel946/Smart-Vehicle-Fleet-Manager.svg?style=flat
-[forks-url]: https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager//network/members
-[stars-shield]: https://img.shields.io/github/stars/abhishekpatel946/Smart-Vehicle-Fleet-Manager.svg?style=flat
-[stars-url]: https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager//stargazers
-[issues-shield]: https://img.shields.io/github/issues/abhishekpatel946/Smart-Vehicle-Fleet-Manager.svg?style=flat
-[issues-url]: https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager//issues
-[license-shield]: https://img.shields.io/github/license/abhishekpatel946/Smart-Vehicle-Fleet-Manager.svg?style=flat
-[license-url]: https://github.com/abhishekpatel946/Smart-Vehicle-Fleet-Manager//blob/master/LICENSE
-[issues-pr]: https://img.shields.io/github/issues-pr/abhishekpatel946/Smart-Vehicle-Fleet-Manager.svg?style=flat
-[product-screenshot]: images/screenshot.png
